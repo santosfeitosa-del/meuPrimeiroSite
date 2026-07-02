@@ -20,11 +20,7 @@ header {
     padding: 20px;
 }
 
-
-
-
-
-container{
+.container{
 
     display: flex;
     flex-direction: column;
@@ -32,5 +28,14 @@ container{
     justify-content: center;
     margin-top: 50px;
     width: 100%;
+
+}
+
+#série{
+
+    width: 100;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
 
 }
